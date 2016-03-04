@@ -11,7 +11,7 @@ Does not change your original sheet, just opens a cleaned copy in the Inbox (iCl
 
 Use Hazel for smooth laundry service :)
 
-Script setup in Hazel? [Click here](http://t.co/EgrOwChykB) and [here](http://t.co/4dAORKd8S6)
+Script setup in Hazel? [Click here](https://dl.dropboxusercontent.com/u/13979538/images/Screen%20Shot%202016-03-04%20at%2016.24.11.png) and [here](https://dl.dropboxusercontent.com/u/13979538/images/Screen%20Shot%202016-03-04%20at%2016.25.28.png)
 
 ### Need RegEx Find & Replace?
 Add two lines at top of sheet in UL codeblocks:  
